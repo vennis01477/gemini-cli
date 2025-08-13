@@ -131,7 +131,7 @@ Use MCP servers to integrate your local system tools with your enterprise collab
 > Organise my PDF invoices by month of expenditure.
 ```
 
-### Uninstall
+### Uninstall 1
 
 Head over to the [Uninstall](docs/Uninstall.md) guide for uninstallation instructions.
 
